@@ -1,0 +1,15 @@
+/* 전체페이지 공통 */
+.container{
+  max-width: 1440px;
+  margin: 50px auto;
+}
+h2{
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+p{
+  line-height: 1.4;
+  word-break: keep-all;
+  letter-spacing: -1px;
+}

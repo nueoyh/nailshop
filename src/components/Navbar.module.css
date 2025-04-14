@@ -1,0 +1,40 @@
+.gnb {
+    display: flex;
+}
+.gnb > li {
+    position: relative;
+}
+.gnb > li > a {
+    display: block;
+    padding: 10px 60px;
+    height: 90px;
+    line-height: 90px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #222;
+    transition: all 0.3s;
+}
+.gnb > li > a:hover {
+    color: #7A4E4E 
+}
+.gnb .submenu {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    border-radius: 0 0 6px 6px;
+    padding: 10px 20px;
+    background: #fff;
+    border: 1px solid #FADADD;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.gnb .submenu a {
+    display: block;
+    text-align: center;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.gnb .submenu a:hover {
+    color: #D9AAB7;
+    font-weight: 600;
+}
