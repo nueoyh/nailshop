@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nailshop/static/css/main.e316b332.css",
-    "main.js": "/nailshop/static/js/main.e6fa2841.js",
+    "main.css": "/nailshop/static/css/main.a0e3baf3.css",
+    "main.js": "/nailshop/static/js/main.54ee5cae.js",
     "static/js/453.11118beb.chunk.js": "/nailshop/static/js/453.11118beb.chunk.js",
     "static/media/logo1.png": "/nailshop/static/media/logo1.11f323bc056fc45528cf.png",
     "index.html": "/nailshop/index.html",
-    "main.e316b332.css.map": "/nailshop/static/css/main.e316b332.css.map",
-    "main.e6fa2841.js.map": "/nailshop/static/js/main.e6fa2841.js.map",
+    "main.a0e3baf3.css.map": "/nailshop/static/css/main.a0e3baf3.css.map",
+    "main.54ee5cae.js.map": "/nailshop/static/js/main.54ee5cae.js.map",
     "453.11118beb.chunk.js.map": "/nailshop/static/js/453.11118beb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e316b332.css",
-    "static/js/main.e6fa2841.js"
+    "static/css/main.a0e3baf3.css",
+    "static/js/main.54ee5cae.js"
   ]
 }
