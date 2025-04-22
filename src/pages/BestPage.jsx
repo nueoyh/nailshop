@@ -2,12 +2,12 @@ import React from 'react'
 import '../App.css'
 import CategoryProductList from '../components/CategoryProductList'
 
-const MagicPress = () => {
+const BestPage = () => {
     return (
         <div className='container'>
-            <CategoryProductList category='salad' label='샐러드'/>
+            <CategoryProductList category='best' label='베스트' />
         </div>
     )
 }
 
-export default MagicPress
+export default BestPage

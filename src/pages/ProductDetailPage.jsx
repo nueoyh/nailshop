@@ -8,17 +8,18 @@ const ProductDetailPage = () => {
     const [product, setProduct] = useState(null);
 
     useEffect(() => {
-        fetch(`http://localhost:3000/products/${id}`)
-            .then((res) => {
-                if (!res.ok) throw new Error('상품없음')
-                return res.json()
-            })
-            .then((data) => {
-                //console.log('받은데이터' , data)
-                setProduct(data)
-            })
-            .catch(err => console.error('에러발생', err))
-    }, [id])
+        fetch(`${process.env.PUBLIC_URL}/db.json`)
+          .then(res => {
+            if (!res.ok) throw new Error("상품 목록 로딩 실패");
+            return res.json();
+          })
+          .then(data => {
+            const found = data.find(item => item.id === parseInt(id));
+            if (!found) throw new Error("해당 상품 없음");
+            setProduct(found);
+          })
+          .catch(err => console.error("에러 발생:", err));
+      }, [id]);
     if (!product) return <p>상품을 불러오는 중입니다...</p>
 
     return (
@@ -27,7 +28,7 @@ const ProductDetailPage = () => {
 
             <div className={styles.productDetail}>
 
-                <img src={product.img} alt={product.title} />
+            <figure><img src={product.img} alt={product.title} /></figure>
                 <div className={styles.productDetail}>
                     <p className={styles.title}>{product.title}</p>
                     <p className={styles.content}>{product.content}</p>

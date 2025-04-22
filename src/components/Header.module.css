@@ -1,5 +1,10 @@
 header {
     border-bottom: 1px solid #FADADD;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background: #fff;
+    z-index: 20;
 }
 header .inner {    
     max-width: 1400px;

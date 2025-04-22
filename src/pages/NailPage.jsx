@@ -2,12 +2,12 @@ import React from 'react'
 import '../App.css'
 import CategoryProductList from '../components/CategoryProductList'
 
-const MainPage = () => {
+const NailPage = () => {
     return (
         <div className='container'>
-            <CategoryProductList category='main' label='메인'/>
+            <CategoryProductList category='nail' label='네일' />
         </div>
     )
 }
 
-export default MainPage
+export default NailPage

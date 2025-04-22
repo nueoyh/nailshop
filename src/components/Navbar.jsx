@@ -7,33 +7,35 @@ const Navbar = () => {
 
     const menuData = [
         {
-            label: "밑반찬",
-            path: "/side-1",
+            label: "New",
+            path: "/new-1",
             submenu: [
-                { label: "나물·무침", path: "/side-1" },
-                { label: "조림·볶음", path: "/side-2" }
+                { label: "신상품", path: "/new-1" }
             ]
         },
         {
-            label: "메인요리",
-            path: "/main-1",
+            label: "Best",
+            path: "/best-1",
             submenu: [
-                { label: "구이·볶음·찜", path: "/main-1" },
-                { label: "전골", path: "/main-2" }
+                { label: "인기상품", path: "/best-1" },
+                { label: "추천상품", path: "/best-2" }
             ]
         },
         {
-            label: "국·탕·찌개",
-            path: "/soup-1",
+            label: "Nail",
+            path: "/nail-1",
             submenu: [
-                { label: "국·탕", path: "/soup-1" },
-                { label: "찌개", path: "/soup-2" }
+                { label: "매직프레스", path: "/nail-1" },
+                { label: "글레이즈", path: "/nail-2" }
             ]
         },
         {
-            label: "샐러드",
-            path: "/salad"
-            // submenu 없음
+            label: "Pedi",
+            path: "/pedi-1",
+            submenu: [
+                { label: "매직프레스", path: "/pedi-1" },
+                { label: "글레이즈", path: "/pedi-2" }
+            ]
         }
     ];
     return (

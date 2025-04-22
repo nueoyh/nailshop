@@ -1,4 +1,11 @@
 /* 전체페이지 공통 */
+@font-face {
+  font-family: 'BMHANNAAir';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/BMHANNAAir.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .container{
   max-width: 1440px;
   margin: 50px auto;
@@ -7,6 +14,7 @@ h2{
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 30px;
+  font-family: 'BMHANNAAir';
 }
 p{
   line-height: 1.4;
