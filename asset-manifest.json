@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/nailshop/static/css/main.a0e3baf3.css",
-    "main.js": "/nailshop/static/js/main.54ee5cae.js",
+    "main.css": "/nailshop/static/css/main.faa0864c.css",
+    "main.js": "/nailshop/static/js/main.7c71885b.js",
     "static/js/453.11118beb.chunk.js": "/nailshop/static/js/453.11118beb.chunk.js",
+    "static/media/mainbg04.jpg": "/nailshop/static/media/mainbg04.365c29d990de67a55b5d.jpg",
+    "static/media/mainbg01.jpg": "/nailshop/static/media/mainbg01.e637a1a9ac090212ee4a.jpg",
+    "static/media/mainbg03.jpg": "/nailshop/static/media/mainbg03.92f7ecf2343a20a53819.jpg",
     "static/media/logo1.png": "/nailshop/static/media/logo1.11f323bc056fc45528cf.png",
+    "static/media/mainbg02.jpg": "/nailshop/static/media/mainbg02.8611d6a88d6200a5e6f5.jpg",
     "index.html": "/nailshop/index.html",
-    "main.a0e3baf3.css.map": "/nailshop/static/css/main.a0e3baf3.css.map",
-    "main.54ee5cae.js.map": "/nailshop/static/js/main.54ee5cae.js.map",
+    "main.faa0864c.css.map": "/nailshop/static/css/main.faa0864c.css.map",
+    "main.7c71885b.js.map": "/nailshop/static/js/main.7c71885b.js.map",
     "453.11118beb.chunk.js.map": "/nailshop/static/js/453.11118beb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e3baf3.css",
-    "static/js/main.54ee5cae.js"
+    "static/css/main.faa0864c.css",
+    "static/js/main.7c71885b.js"
   ]
 }
