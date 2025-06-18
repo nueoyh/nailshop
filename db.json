@@ -1,142 +1,945 @@
 [
-        {
-            "id": 1,
-            "img": "https://dashingdiva.co.kr/web/product/big/202504/7b435a8fa7fbefefc766b546ec19b227.jpg",
-            "title": "쥬시 플럼",
-            "content": "포도 젤리 같은 투명한 시럽 텍스처로 은은하게 물드는 보랏빛 포도 시럽 페디",
-            "price": "￦9,720",
-            "category": "new",
-            "choice": true,
-            "new": true
+    {
+        "id": 1,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/3fc077ca2723489c6a1c48b51681cb35.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/46322fdec0b2e724869548c764bff3a3.jpg"
         },
-        {
-            "id": 2,
-            "img": "https://dashingdiva.co.kr/web/product/extra/big/202502/959c2942bf6a77345c4649b53511e88e.jpg",
-            "title": "블러싱 하트(아몬드)",
-            "content": "움직이는 손끝에 맞춰 부드럽게 일렁이는 하트 마그네틱으로 색다른 매력을 더해주는 트렌디한 라이트 핑크 컬러 자석 네일",
-            "price": "￦12,420",
-            "category": "new",
-            "choice": true,
-            "new": true
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S105CG/MDU5S105CG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S105CG/MDU5S105CG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S105CG/MDU5S105CG_03_.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S105CG/MDU5S105CG_04.jpg"
         },
-        {
-            "id": 3,
-            "img": "https://dashingdiva.co.kr/web/product/big/202502/77577a453c5a0f16736e2069c33aad49.jpg",
-            "title": "캔디 크러쉬(레귤러 라운드)",
-            "content": "펄이 반짝이는 하트 디자인에 3D 엠보젤을 더해 귀여우면서도 고급스러운 라벤더 네일",
-            "price": "￦10,620",
-            "category": "new",
-            "choice": false,
-            "new": true
+        "title": "에끌라(코핀)",
+        "content": "부드럽게 일렁이는 자석젤 위로 크리스탈 주얼이 사선으로 반짝이며 손끝에 우아한 빛을 담아내는 실키한 화이트 글로우 네일",
+        "price": 14220,
+        "category": [
+            "new",
+            "best",
+            "nail",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": true,
+        "new": true
+    },
+    {
+        "id": 2,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/1dfdf94f50cc63bc236d3b144b0471a2.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/178ac4ff3093010a3437d33c12803220.jpg"
         },
-        {
-            "id": 4,
-            "img": "https://dashingdiva.co.kr/web/product/big/202408/901845661cf7da01e422f538496ec99b.jpg",
-            "title": "와인 파티(레귤러 라운드)",
-            "content": "세련된 컬러감에 반짝이는 글리터를 더한 고급스러운 클래식 네일",
-            "price": "￦10,620",
-            "category": "nail",
-            "choice": false,
-            "new": true
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S107CG/MDU5S107CG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S107CG/MDU5S107CG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S107CG/MDU5S107CG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S107CG/MDU5S107CG_04.jpg"
         },
-        {
-            "id": 5,
-            "img": "https://dashingdiva.co.kr/web/product/extra/big/202502/6b2208921c1f32d2b5a0f820a32274ed.jpg",
-            "title": "블랙 위시(코핀)",
-            "content": "밤하늘에 별이 반짝이는 듯 잔잔한 펄이 빛나는 블랙 시럽 컬러에 다양한 스톤으로 고급스러움을 가득 더한 프리미엄 풀스톤 네일",
-            "price": "￦14,220",
-            "category": "nail",
-            "choice": true,
-            "new": false
+        "title": "르누아(코핀)",
+        "content": "블랙 리본의 감각적인 무드와 실버 주얼의 은은한 반짝임이 어우러진 러블리함과 세련미가 공존하는 프리미엄 파츠 네일",
+        "price": 14220,
+        "category": [
+            "new",
+            "best",
+            "nail",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": true,
+        "new": true
+    },
+    {
+        "id": 3,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/db42b41e53dba0954dc0df3f0b20a386.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/2eb9fb89a1161be6e9a39ddced7d5bfd.jpg"
         },
-        {
-            "id": 6,
-            "img": "https://dashingdiva.co.kr/web/product/big/202402/77adc2e6b23a9d789239fa825600ac53.jpg",
-            "title": "핑크 플로럴(아몬드)",
-            "content": "톤다운 된 반투명한 시럽 컬러들로 고요한 새벽녘을 연상 시키는 차분한 마블 네일",
-            "price": "￦10,620",
-            "category": "nail",
-            "choice": false,
-            "new": false
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S112AG/MDF5S112AG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S112AG/MDF5S112AG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/upload/NNEditor/20250512/ED9484EBA19CEBA6ACEBA5B4.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S112AG/MDF5S112AG_04.jpg"
         },
-        {
-            "id": 7,
-            "img": "https://dashingdiva.co.kr/web/product/big/202404/c7828256ff37a17ed44162f2dd9d71f7.jpg",
-            "title": "힐링 뷰",
-            "content": "싱그러운 그린과 블루 컬러에 귀여운 3D 아트가 돋보이는 네일",
-            "price": "￦10,620",
-            "category": "pedi",
-            "choice": true,
-            "new": false
+        "title": "플뢰르(아몬드)",
+        "content": "여리여리한 핑크 컬러 위로 흐르듯 그려진 자석 리본 모티브가 러블리하고 로맨틱한 분위기를 가득 담아낸 자석 네일",
+        "price": 12420,
+        "category": [
+            "new",
+            "best",
+            "nail",
+            "recommend",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": true,
+        "new": true
+    },
+    {
+        "id": 4,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202502/93f68ef266a974af5d189d53fab5d561.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202502/59c48ca54c0aff9db40c05976817e2f3.jpg"
         },
-        {
-            "id": 8,
-            "img": "https://dashingdiva.co.kr/web/product/big/202305/24f78db3f6c968fa4d1dad93111adfb1.jpg",
-            "title": "글리터링 핑크",
-            "content": "딸기 우유 같은 컬러로 러블리한 매력의 컬러앤글리터 페디",
-            "price": "￦10,620",
-            "category": "pedi",
-            "choice": false,
-            "new": true
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5P010AG/MDF5P010AG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5P010AG/MDF5P010AG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5P010AG/MDF5P010AG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5P010AG/MDF5P010AG_05.jpg"
         },
-        {
-            "id": 9,
-            "img": "https://dashingdiva.co.kr/web/product/big/202407/292506f4a42a2f643626403aa7676daa.jpg",
-            "title": "블랙 사파이어",
-            "content": "블랙 컬러에 글리터와 크리스탈 스톤을 더해 시크한 프리미엄 페디",
-            "price": "￦14,220",
-            "category": "pedi",
-            "choice": true,
-            "new": true
+        "title": "블러싱 하트(아몬드)",
+        "content": "움직이는 손끝에 맞춰 부드럽게 일렁이는 하트 마그네틱으로 색다른 매력을 더해주는 트렌디한 라이트 핑크 컬러 자석 네일",
+        "price": 12420,
+        "category": [
+            "new",
+            "recommend",
+            "nail",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 5,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202502/1e08f94e418d6d3d8e006ec53de132b7.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202502/cdd24bd3114e6b3f5d49684359e6fb8a.jpg"
         },
-        {
-            "id": 10,
-            "img": "https://dashingdiva.co.kr/web/product/big/202407/4eb0915740be88cacd97a0c3b3407556.jpg",
-            "title": "블루 사파이어",
-            "content": "글로시한 광택감과 오로라 빛 스톤이 만나 화려해진 프리미엄 페디",
-            "price": "￦14,220",
-            "category": "pedi",
-            "choice": false,
-            "new": true
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5P016RG/MDA5P016RG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5P016RG/MDA5P016RG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5P016RG/MDA5P016RG_05.jpg"
         },
-        {
-            "id": 11,
-            "img": "https://dashingdiva.co.kr/web/product/big/202308/27463acea7c2f951fbb6aecd4f9bee97.jpg",
-            "title": "러브 조이",
-            "content": "러블리한 매력으로 보기만 해도 기분 좋아지는 3D 엠보 페디",
-            "price": "￦10,620",
-            "category": "pedi",
-            "choice": true,
-            "new": false
+        "title": "캔디 크러쉬(레귤러 라운드)",
+        "content": "펄이 반짝이는 하트 디자인에 3D 엠보젤을 더해 귀여우면서도 고급스러운 라벤더 네일",
+        "price": 10620,
+        "category": [
+            "new",
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 6,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202408/0198f1d70719eb92aa9d9d0bdc2f262e.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/9f417f977fa7b33cff39251361a89b4b.jpg"
         },
-        {
-            "id": 12,
-            "img": "https://dashingdiva.co.kr/web/product/extra/big/202405/81e4f8d767c9baa4f34df43d1fd5d17b.jpg",
-            "title": "사우어 푸딩",
-            "content": "푸딩처럼 달콤한 핑크빛 색감에 다채롭게 빛나는 유리 필름과 글리터가 더해진 포인트 네일",
-            "price": "￦10,360",
-            "category": "best",
-            "choice": false,
-            "new": true
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR2F074RR_NP/MDR2F074RR_NP_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR2F074RR_NP/MDR2F074RR_NP_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail_howto/mp/2024/MP_all.jpg"
         },
-        {
-            "id": 13,
-            "img": "https://dashingdiva.co.kr/web/product/big/202411/91ba94cf8c55370a6236814ed7db4db4.jpg",
-            "title": "글린트 옴브레",
-            "content": "사랑스러운 파스텔톤 옴브레 베이스에 빛을 따라 일렁이는 물광 마그네틱 이펙트가 고급스러운 반짝임을 가득 더해주는 시그니처 자석젤 네일",
-            "price": "￦11,060",
-            "category": "best",
-            "choice": true,
-            "new": true
+        "title": "와인 파티(레귤러 라운드)",
+        "content": "세련된 컬러감에 반짝이는 글리터를 더한 고급스러운 클래식 네일",
+        "price": 10620,
+        "category": [
+            "new",
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 7,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202502/5af9a3c26863fd8b9af4c46d7b703726.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202502/74a00ff3330ae243506ac89a67e12866.jpg"
         },
-        {
-            "id": 14,
-            "img": "https://dashingdiva.co.kr/web/product/big/202405/1520f11f899b6f92130a737f31997117.jpg",
-            "title": "플로우",
-            "content": "부드러운 소프트 블루 컬러와 글리터로 표현한 웨이브 프렌치가 햇빛에 반짝이는 파도를 떠올리게 하는 네일",
-            "price": "￦10,360",
-            "category": "best",
-            "choice": false,
-            "new": false
-        }
-    ]
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5P004CG/MDU5P004CG_01_1.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5P004CG/MDU5P004CG_02_1.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5P004CG/MDU5P004CG_03_1.jpg"
+        },
+        "title": "블랙 위시(코핀)",
+        "content": "밤하늘에 별이 반짝이는 듯 잔잔한 펄이 빛나는 블랙 시럽 컬러에 다양한 스톤으로 고급스러움을 가득 더한 프리미엄 풀스톤 네일",
+        "price": 14220,
+        "category": [
+            "recommend",
+            "nail",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 8,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/86325ee4b127ca1eedf17f39544969ad.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/d2c979ec076df8cfd527656ec3110f3d.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S081CG/MDF5S081CG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S081CG/MDF5S081CG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S081CG/MDF5S081CG_04.jpg"
+        },
+        "title": "글라스 핑크(코핀)",
+        "content": "유리알 자석젤이 영롱하게 반짝이는고급스러운 색감의 핑크 옴브레 글라스 네일",
+        "price": 12420,
+        "category": [
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 9,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202404/1664bc15247effed5003ac491d79fb73.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/aba1863ea1e4d176c0fdaa41ccc63691.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR3S123P_NP/MDR3S123P_NP_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR3S123P_NP/MDR3S123P_NP_02.jpg"
+        },
+        "title": "힐링 뷰",
+        "content": "싱그러운 그린과 블루 컬러에 귀여운 3D 아트가 돋보이는 네일",
+        "price": 10620,
+        "category": [
+            "pedi",
+            "recommend",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 10,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202305/f85915280de230480314080ee8575f9e.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/8b7586e59177926133dc974f01fc977b.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA3S075PG/MDA3S075PG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA3S075PG/MDA3S075PG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA3S075PG/MDA3S075PG_04.jpg"
+        },
+        "title": "글리터링 핑크",
+        "content": "딸기 우유 같은 컬러로 러블리한 매력의 컬러앤글리터 페디",
+        "price": 10620,
+        "category": [
+            "new",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 11,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202407/e84b0df25c60fa7edf227ce9b105d72a.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/5d17ead07c1fe586d6b23d5721e8a6c8.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S113PP_NP/MDR3S113PP_NP_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S113PP_NP/MDR3S113PP_NP_02.jpg"
+        },
+        "title": "블랙 사파이어",
+        "content": "블랙 컬러에 글리터와 크리스탈 스톤을 더해 시크한 프리미엄 페디",
+        "price": 14220,
+        "category": [
+            "new",
+            "pedi",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 12,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202407/83ae9e03e0f27eef53d6210de3caed58.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/63a9a278acacf73d5828d4790a072029.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S112PP_NP/MDR3S112PP_NP_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S112PP_NP/MDR3S112PP_NP_02.jpg"
+        },
+        "title": "블루 사파이어",
+        "content": "글로시한 광택감과 오로라 빛 스톤이 만나 화려해진 프리미엄 페디",
+        "price": 14220,
+        "category": [
+            "new",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 13,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202308/972f629cb5195b43a14878a500607f9c.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/aa82d6b168bd7623c6f34a1bfe087fc8.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S080P_NP/MDR3S080P_NP_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/REORDER/MDR3S080P_NP/MDR3S080P_NP_02.jpg"
+        },
+        "title": "러브 조이",
+        "content": "러블리한 매력으로 보기만 해도 기분 좋아지는 3D 엠보 페디",
+        "price": 10620,
+        "category": [
+            "recommend",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 14,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/52f727c22bae233ed9a4261900e48896.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/df95578c5f34d27cbf623e6f44d3fdc2.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA473/ZMA473_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA473/ZMA473_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA473/ZMA473_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA473/ZMA473_05.jpg"
+        },
+        "title": "사우어 푸딩",
+        "content": "푸딩처럼 달콤한 핑크빛 색감에 다채롭게 빛나는 유리 필름과 글리터가 더해진 포인트 네일",
+        "price": 10360,
+        "category": [
+            "new",
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 15,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202411/79aa92fd1bd4445ca2954e574e9dcce0.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202411/0d6494007bf0565c831c3a84749aee76.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA462/ZMA462_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA462/ZMA462_03.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA462/ZMA462_05.jpg"
+        },
+        "title": "글린트 옴브레",
+        "content": "사랑스러운 파스텔톤 옴브레 베이스에 빛을 따라 일렁이는 물광 마그네틱 이펙트가 고급스러운 반짝임을 가득 더해주는 시그니처 자석젤 네일",
+        "price": 11060,
+        "category": [
+            "new",
+            "recommend",
+            "nail",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 16,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202405/2ca1ef25965d5c3b2ffc3427dfa79476.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/b35be81948352197f905d43bef28d0f0.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA470/ZMA470_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA470/ZMA470_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA470/ZMA470_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA470/ZMA470_05.jpg"
+        },
+        "title": "플로우",
+        "content": "부드러운 소프트 블루 컬러와 글리터로 표현한 웨이브 프렌치가 햇빛에 반짝이는 파도를 떠올리게 하는 네일",
+        "price": 10360,
+        "category": [
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 17,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202504/8a7e2795dcf70433aa6758afef768d7c.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/0ea4496bc35f423cf5d48cee12b208db.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDC5S049PD/MDC5S049PD_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDC5S049PD/MDC5S049PD_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDC5S049PD/MDC5S049PD_04.jpg"
+        },
+        "title": "쥬시 플럼",
+        "content": "포도 젤리 같은 투명한 시럽 텍스처로 은은하게 물드는 보랏빛 포도 시럽 페디",
+        "price": 9720,
+        "category": [
+            "new",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 18,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202505/502b8af052907bc8b9cfe4c1e23da560.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/30f044a1cddd04857f4b3689824dcdd0.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S058PG/MDA5S058PG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S058PG/MDA5S058PG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S058PG/MDA5S058PG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S058PG/MDA5S058PG_04.jpg"
+        },
+        "title": "실키 리본",
+        "content": "물먹은 듯한 핑크 시럽 베이스 위에 러블리한 리본 아트를 그려 여리여리하고 페미닌한 무드를 완성하는 핑크 리본 페디",
+        "price": 10620,
+        "category": [
+            "recommend",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 19,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/1f5c8ab119f26789893a657ba893abeb.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/db4051c5a15b7b1b1ea12688b1d8e6a8.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S067PG/MDU5S067PG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S067PG/MDU5S067PG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S067PG/MDU5S067PG_04.jpg"
+        },
+        "title": "쉘 브리즈",
+        "content": "깨끗하고 맑은 바닷속을 닮은 일렁이는 블루 마그네틱에 반짝이는 실버 파츠를 더해 시원한 무드를 연출하는 3D 바다 페디",
+        "price": 14220,
+        "category": [
+            "best",
+            "new",
+            "recommend",
+            "pedi",
+            "magicpress"
+        ],
+        "choice": true,
+        "best": true,
+        "new": true
+    },
+    {
+        "id": 20,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202402/6962fd1b6ee452f97f41ab31d5f75902.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202402/ff9635b0edbcea8529c48419e105013f.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA159/ZPA159_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA159/ZPA159_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA159/ZPA159_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA159/ZPA159_05.jpg"
+        },
+        "title": "대즐링 소다",
+        "content": "소다빛 시럽 베이스에 일루션 홀로그램 이펙트를 더해 맑게 반짝이는 글리터 페디",
+        "price": 10360,
+        "category": [
+            "best",
+            "new",
+            "recommend",
+            "pedi",
+            "glaze"
+        ],
+        "choice": true,
+        "best": true,
+        "new": true
+    },
+    {
+        "id": 21,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/d0ed3900af40ab5d24f0b8762ac6c283.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/39a268e139a4c2561148933a8c235665.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA154/ZPA154_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA154/ZPA154_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA154/ZPA154_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA154/ZPA154_05.jpg"
+        },
+        "title": "조이풀 오브제",
+        "content": "귀여운 스마일 드로잉과 써니 옐로우 컬러가 사랑스러운 페디",
+        "price": 10360,
+        "category": [
+            "new",
+            "recommend",
+            "pedi",
+            "glaze"
+        ],
+        "choice": true,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 22,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202402/f416715eb8dd6fcd4dc75ea922d85d7e.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202402/d79000b7d1789a70051fe21571e38a94.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA160/ZPA160_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA160/ZPA160_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA160/ZPA160_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA160/ZPA160_05.jpg"
+        },
+        "title": "문더스트",
+        "content": "귀시어한 스킨 베이스에 로즈골드 글리터와 라인으로 포인트를 준 그라데이션 페디",
+        "price": 10360,
+        "category": [
+            "pedi",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 23,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/02c20d0eeb87ede854da9f92f10bb4b7.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/32ec7fa029a827ea8acd1a17a8d13b61.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPC216/ZPC216_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPC216/ZPC216_03.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPC216/ZPC216_05.jpg"
+        },
+        "title": "블랑",
+        "content": "맑고 깨끗하게 차오르는 단정한 아이보리 반시럽 컬러 페디",
+        "price": 8960,
+        "category": [
+            "pedi",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 24,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/5d4ecd726abdd5969f2df1fe48339f83.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/ae52d6dcb92dc6efee395fd3cf00d858.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA172/ZPA172_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA172/ZPA172_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA172/ZPA172_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA172/ZPA172_05.jpg"
+        },
+        "title": "써니 스마일",
+        "content": "비비드한 컬러 조합이 귀여운 스마일 페디",
+        "price": 10360,
+        "category": [
+            "recommend",
+            "pedi",
+            "glaze"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 25,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202403/63191de807929ace6e9ac2c9aaea83c0.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202402/cfa0d952b6f1229cc84984dbc540fd24.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA446/ZMA446_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA446/ZMA446_02_2.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA446/ZMA446_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA446/ZMA446_05.jpg"
+        },
+        "title": "포쉬 화이트",
+        "content": "부드럽게 물드는 화이트 그라데이션에 머메이드 이펙트가 더해진 우아한 진주빛 광채 네일",
+        "price": 10360,
+        "category": [
+            "recommend",
+            "nail",
+            "glaze"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 26,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202407/831d44fbd95ef9c41e2dc598e7fed5a2.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202407/ab78d46bea63699f4437c87822f5493a.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC243/ZMC243_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC243/ZMC243_02_1.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC243/ZMC243_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC243/ZMC243_05.jpg"
+        },
+        "title": "세이지",
+        "content": "어떤 룩에도 차분하게 어우러지는 트렌디한 그린 그레이 컬러 네일",
+        "price": 8960,
+        "category": [
+            "new",
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 27,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/14845ed358a8e7e23e402b5459acd72c.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/add3f4cd9ab0ffcb63351ae503b8d7ce.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA472/ZMA472_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA472/ZMA472_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA472/ZMA472_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA472/ZMA472_05.jpg"
+        },
+        "title": "슈가 스마일",
+        "content": "부드러운 파스텔 컬러와 발랄한 스마일 드로잉이 사랑스러운 네일",
+        "price": 10360,
+        "category": [
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 28,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202403/b6fc85b700c85b9d118af8665b893d6a.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202402/2b377697dd1a36cf279117dce8c4d17f.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA457/ZMA457_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA457/ZMA457_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA457/ZMA457_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMA457/ZMA457_05.jpg"
+        },
+        "title": "라벤더 팝",
+        "content": "달콤한 라벤더 꽃잎을 닮은 시럽 컬러에 영롱한 글리터가 더해진 러블리 네일",
+        "price": 10360,
+        "category": [
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 29,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/88391efd0bfe0ae422cb7c5869486d0b.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/a85033a88618cdc2394c43c92c109002.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC236/ZMC236_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC236/ZMC236_02_re.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC236/ZMC236_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC236/ZMC236_05.jpg"
+        },
+        "title": "어텐션 블루",
+        "content": "비비드하고 시원한 색감이 눈길을 사로잡는 유니크 블루 컬러 네일",
+        "price": 8960,
+        "category": [
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 30,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202407/8853fc6b637337907f82824231da5fe5.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202407/365b88db5a96de0fc3793e944579c8e3.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC212/ZMC212_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC212/ZMC212_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC212/ZMC212_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZMC212/ZMC212_05.jpg"
+        },
+        "title": "허그",
+        "content": "우유 섞인 듯 크리미한 컬러감으로 손끝을 은은하게 물들이는 소프트 핑크 컬러 네일",
+        "price": 8960,
+        "category": [
+            "nail",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 31,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202505/cc6e08961f26e4c7b5d5a0cf37573ce3.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/39ef67c16585dc3f160c0f400f4a7c92.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S109AG/MDU5S109AG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S109AG/MDU5S109AG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S109AG/MDU5S109AG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S109AG/MDU5S109AG_04.jpg"
+        },
+        "title": "에테리얼 나이트(아몬드)",
+        "content": "일렁이는 블루&퍼플 마그네틱 위에 실버 드로잉과 클리어 하트가 어우러져 별빛이 흐르는 밤하늘을 담아낸 프리미엄 네일",
+        "price": 14220,
+        "category": [
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 32,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202504/91214e8e6b28d1e27c3bf7fcbd1f3ea6.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202505/9c4781243c96e6a3929d107a71dbfe68.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S073RG/MDA5S073RG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S073RG/MDA5S073RG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S073RG/MDA5S073RG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDA5S073RG/MDA5S073RG_04.jpg"
+        },
+        "title": "미니 토마토(레귤러 라운드)",
+        "content": "발그레한 레드 치크를 포인트로 귀엽고 사랑스럽게 완성한 생기 가득한 미니 토마토 네일",
+        "price": 10620,
+        "category": [
+            "new",
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 33,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202505/285a0b6d26976d03841407177adba85a.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/511915bbd690f54795ac47b6265d7523.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S106CG/MDU5S106CG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S106CG/MDU5S106CG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S106CG/MDU5S106CG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S106CG/MDU5S106CG_04.jpg"
+        },
+        "title": "보니(코핀)",
+        "content": "코랄빛 치크 컬러가 은은하게 퍼지며 생기를 더하고오로라 빛 리본 포인트가 사랑스러운 무드를 완성한 치크 네일",
+        "price": 14220,
+        "category": [
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 34,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202505/08094497e2d959ae715aed9649a552f8.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/16a293ac48ce7f44234830cfd4a85dd7.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S080RG/MDF5S080RG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S080RG/MDF5S080RG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S080RG/MDF5S080RG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S080RG/MDF5S080RG_04.jpg"
+        },
+        "title": "리본 플리츠(레귤러 라운드)",
+        "content": "핑크 누드 베이스와 우아한 광이 섬세하게 표현된 입체 텍스처에 실버 리본 포인트를 더한 세련된 무드의 실크 글라스 네일",
+        "price": 12420,
+        "category": [
+            "nail",
+            "magicpress"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 35,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202505/720fd709db7a130692885dacb261786c.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/baf39edf609cdd884832f1c20847e12c.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S084CG/MDF5S084CG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S084CG/MDF5S084CG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S084CG/MDF5S084CG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S084CG/MDF5S084CG_04.jpg"
+        },
+        "title": "스탈릿 제이드(코핀)",
+        "content": "그린 컬러의 은은한 그라데이션과 마그네틱 프렌치가 조화를 이루어신비로운 빛을 담아낸 자석젤 네일",
+        "price": 12420,
+        "category": [
+            "nail",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 36,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/tiny/202505/e940f0b430eea9dba8381a9a96221c5e.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/521a77a71dc2b6628d0976b40e02e4ab.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S079RG/MDF5S079RG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S079RG/MDF5S079RG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDF5S079RG/MDF5S079RG_04.jpg"
+        },
+        "title": "오로라 블루(레귤러 라운드)",
+        "content": "신비롭게 빛나는 핑크와 블루 자석젤이 조화롭게 스며들어 몽환적인 무드를 연출하는 오로라 마그네틱 네일",
+        "price": 12420,
+        "category": [
+            "nail",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 37,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202505/85dc0478388c46b06c9587f1641a0ca1.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/small/202505/55a1eea67c5972876196718c0ea83c2e.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S063PG/MDU5S063PG_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S063PG/MDU5S063PG_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S063PG/MDU5S063PG_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2025/MP/MDU5S063PG/MDU5S063PG_04.jpg"
+        },
+        "title": "리즈",
+        "content": "깨끗한 화이트 베이스에 실버 하트와 리본 포인트를 더해 우아하면서도 러블리한 감성을 담은 감각적인 페디",
+        "price": 14220,
+        "category": [
+            "pedi",
+            "magicpress",
+            "recommend"
+        ],
+        "choice": true,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 38,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202404/8a4a1f19be5ff041b2ab71eecf273ae2.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202506/d4dd93fdcd5ad02900b6d3a6bfde5a6d.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR4S028P/MDR4S028P_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR4S028P/MDR4S028P_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR4S028P/MDR4S028P_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/MP/MDR4S028P/MDR4S028P_05.jpg"
+        },
+        "title": "플랫 피치",
+        "content": "생동감 넘치는 3D 엠보로 표현한 상큼한 납작 복숭아 페디",
+        "price": 10030,
+        "category": [
+            "pedi",
+            "magicpress",
+            "new"
+        ],
+        "choice": false,
+        "best": false,
+        "new": true
+    },
+    {
+        "id": 39,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/extra/small/202405/748c2e7158a13a7a6b1bbdf7ecce77f7.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/0bc57b5c709efedc7304147e42a48699.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA168/ZPA168_01_re.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA168/ZPA168_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA168/ZPA168_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA168/ZPA168_05.jpg"
+        },
+        "title": "터쿼이즈",
+        "content": "트랜디한 터쿼이즈 컬러에 자연스럽게 반짝이는 플레이크 마블이 깊은 바닷속을 닮은 유니크한 마블 페디",
+        "price": 10360,
+        "category": [
+            "pedi",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    },
+    {
+        "id": 40,
+        "img": {
+            "default": "https://dashingdiva.co.kr/web/product/small/202405/abfc74db138be33c45c554f0b6cfbd99.jpg",
+            "hover": "https://dashingdiva.co.kr/web/product/extra/small/202405/fe8f797f611527dd7cf45dfcbaf024e5.jpg"
+        },
+        "detailImg": {
+            "img1": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA167/ZPA167_01.jpg",
+            "img2": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA167/ZPA167_02.jpg",
+            "img3": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA167/ZPA167_03.jpg",
+            "img4": "https://dashingdiva.co.kr/web/productdetail/models/2024/GZ/ZPA167/ZPA167_05.jpg"
+        },
+        "title": "터치드 오션",
+        "content": "시원한 바다를 닮아 빛이 닿는 순간 터지듯 반짝이는 여름 클래식 베스트 페디",
+        "price": 10360,
+        "category": [
+            "pedi",
+            "glaze"
+        ],
+        "choice": false,
+        "best": false,
+        "new": false
+    }
+]

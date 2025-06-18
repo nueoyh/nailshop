@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/nailshop/static/css/main.faa0864c.css",
-    "main.js": "/nailshop/static/js/main.7c71885b.js",
+    "main.css": "/nailshop/static/css/main.f9693011.css",
+    "main.js": "/nailshop/static/js/main.b5744f36.js",
     "static/js/453.11118beb.chunk.js": "/nailshop/static/js/453.11118beb.chunk.js",
-    "static/media/mainbg04.jpg": "/nailshop/static/media/mainbg04.365c29d990de67a55b5d.jpg",
-    "static/media/mainbg01.jpg": "/nailshop/static/media/mainbg01.e637a1a9ac090212ee4a.jpg",
-    "static/media/mainbg03.jpg": "/nailshop/static/media/mainbg03.92f7ecf2343a20a53819.jpg",
+    "static/media/cartModal.png": "/nailshop/static/media/cartModal.8c88147c2f8700ce5533.png",
+    "static/media/myPage.png": "/nailshop/static/media/myPage.edd87c96e11d2a524dca.png",
+    "static/media/ico_money.png": "/nailshop/static/media/ico_money.ee1a398dea57f6490ad7.png",
+    "static/media/mainbg04.jpg": "/nailshop/static/media/mainbg04.f272fa9e53f4e06bf08c.jpg",
+    "static/media/mainbg01.jpg": "/nailshop/static/media/mainbg01.81e738e23b28de60d73d.jpg",
+    "static/media/mainbg02.jpg": "/nailshop/static/media/mainbg02.e1c9393f74267eb0c13c.jpg",
+    "static/media/mainbg03.jpg": "/nailshop/static/media/mainbg03.a59bc3eb204c236b0c99.jpg",
     "static/media/logo1.png": "/nailshop/static/media/logo1.11f323bc056fc45528cf.png",
-    "static/media/mainbg02.jpg": "/nailshop/static/media/mainbg02.8611d6a88d6200a5e6f5.jpg",
+    "static/media/ico_coupon.png": "/nailshop/static/media/ico_coupon.9052677e3f0fa8b75a75.png",
+    "static/media/logo_w.png": "/nailshop/static/media/logo_w.165c34a0e08afc9ea08d.png",
+    "static/media/ico_box.png": "/nailshop/static/media/ico_box.a981539cd5f8cb50b748.png",
     "index.html": "/nailshop/index.html",
-    "main.faa0864c.css.map": "/nailshop/static/css/main.faa0864c.css.map",
-    "main.7c71885b.js.map": "/nailshop/static/js/main.7c71885b.js.map",
+    "main.f9693011.css.map": "/nailshop/static/css/main.f9693011.css.map",
+    "main.b5744f36.js.map": "/nailshop/static/js/main.b5744f36.js.map",
     "453.11118beb.chunk.js.map": "/nailshop/static/js/453.11118beb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faa0864c.css",
-    "static/js/main.7c71885b.js"
+    "static/css/main.f9693011.css",
+    "static/js/main.b5744f36.js"
   ]
 }
